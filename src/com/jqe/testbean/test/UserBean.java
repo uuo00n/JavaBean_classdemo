@@ -1,4 +1,4 @@
-package com.jqe.javabean.bean.test;
+package com.jqe.testbean.test;
 
 public class UserBean {
     private String name;

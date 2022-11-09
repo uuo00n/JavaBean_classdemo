@@ -12,7 +12,7 @@
 </head>
 <body>
 <h1>这是黄俊博的PersonBean类运行结果：</h1>
-<jsp:useBean id="person" class="com.jqe.javabean.bean.person.person"></jsp:useBean>
+<jsp:useBean id="person" class="com.jqe.testbean.test.person"></jsp:useBean>
 <jsp:setProperty name="person" property="name" value="黄俊博"/>
 <jsp:setProperty name="person" property="height" value="183"/>
 姓名为：

@@ -11,7 +11,7 @@
     <title>user</title>
 </head>
 <body>
-<jsp:useBean id="user" class="com.jqe.javabean.bean.test.UserBean" scope="request">
+<jsp:useBean id="user" class="com.jqe.testbean.test.UserBean" scope="request">
 
 </jsp:useBean>
 <jsp:setProperty name="user" property="name" value="黄俊博"/>

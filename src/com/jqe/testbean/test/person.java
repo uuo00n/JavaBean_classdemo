@@ -1,4 +1,4 @@
-package com.jqe.javabean.bean.person;
+package com.jqe.testbean.test;
 
 /**
  * @author uuo00_n(Hwang Jumbo)
